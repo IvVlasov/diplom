@@ -8,7 +8,7 @@ user = {
 
 btn_text = {
     'button1': 'Ерунду сказал',
-    'button2': 'Всё окей',
+    'button2': 'Ответ верный',
     'button3': 'Добавить ответ',
     'adm_btn1': f'{spec_simbol} Занести вопрос FAQ {spec_simbol}',
     'adm_btn2': f'{spec_simbol} ️Модерация ответов {spec_simbol}️',
